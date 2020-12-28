@@ -4,7 +4,7 @@
 I'm a Front-End web developer with hands-on experience in building web applications,PWA, optimized web performance, functional integration,testing and user acceptance.
 
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me about Javascript, ReactJS,  Web Performance/Accessibility, PWA, Testing, Open Source...
+- 💬 Ask me about Project Management, Javascript, ReactJS,  Web Performance/Accessibility, PWA, Testing, Open Source...
 
 - 📫 How to reach me: 
   * 🕊 [Twitter](https://twitter.com/cmcWebCode "My Twitter")
