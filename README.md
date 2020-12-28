@@ -8,7 +8,7 @@ I'm a Front-End web developer with hands-on experience in building web applicati
 
 - 📫 How to reach me: 
   * 🕊 [Twitter](https://twitter.com/cmcWebCode "My Twitter")
-  * 📱 [LinkedIn](www.linkedin.com/in/michael-chinweike-467360a8/ "My LinkedIn")
+  * 📱 [LinkedIn](https://www.linkedin.com/in/michael-chinweike-467360a8/ "My LinkedIn")
   * 🌍 [Portfolio](https://www.chinweikemichael.tech/ "portfolio")
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I play a musical instrument keyboard 🎹 .
