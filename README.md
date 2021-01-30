@@ -18,9 +18,7 @@ I'm a Front-End web developer with hands-on experience in building web applicati
 
 -->
 
-## &#x1f4c8; GitHub Stats.
-
-![Profile views](https://gpvc.arturio.dev/cmcWebCode40)  
+## &#x1f4c8; GitHub Stats. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmcWebCode40&layout=compact&theme=tokyonight)](https://github.com/cmcWebCode40)
 
