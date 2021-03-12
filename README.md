@@ -16,22 +16,6 @@ I'm a Front-End web developer with hands-on experience in building web applicati
 ## 🔧 Technologies & Tools
 
 
--->
-
-## &#x1f4c8; GitHub Stats. 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmcWebCode40&layout=compact&theme=tokyonight)](https://github.com/cmcWebCode40)
-
-
-![Chinweike's github stats](https://github-readme-stats.vercel.app/api?username=cmcWebCode40&show_icons=true&theme=tokyonight)
-
-
-
-<!--
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
