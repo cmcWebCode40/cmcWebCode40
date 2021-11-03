@@ -1,10 +1,11 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Michael</B></h3>
 <hr>
 
-I'm a Front-End web developer with hands-on experience in building web applications,PWA, optimized web performance, functional integration,testing and user acceptance.
+I'm a Front-End Web developer building decentralized projects
 
-- 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me about Project Management, Javascript, ReactJS,  Web Performance/Accessibility, PWA, Testing, Open Source...
+- 👯 I’m looking to collaborate on more open source web3 projects.
+
+- 💬 Ask me about Web3, Javascript, ReactJS,Vuejs,  Crypto, Blcokchain, Open Source...
 
 - 📫 How to reach me: 
   * 🕊 [Twitter](https://twitter.com/cmcWebCode "My Twitter")
