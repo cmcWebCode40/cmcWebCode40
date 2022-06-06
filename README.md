@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Michael</B></h3>
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm <B>Michael</B></h3>
 <hr>
 
 I'm a Front-End Web developer building decentralized projects
