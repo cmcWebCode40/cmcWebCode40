@@ -1,11 +1,7 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm <B>Michael</B></h3>
 <hr>
 
-I'm a Front-End Web developer building decentralized projects
-
-- 👯 I’m looking to collaborate on more open source web3 projects.
-
-- 💬 Ask me about Web3, Javascript, ReactJS,Vuejs,  Crypto, Blcokchain, Open Source...
+I'm a Front-End Web developer building both centralised and decentralized projects
 
 - 📫 How to reach me: 
   * 🕊 [Twitter](https://twitter.com/cmcWebCode "My Twitter")
