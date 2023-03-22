@@ -1,9 +1,9 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm <B>Michael</B></h3>
 <hr>
 
-As a Front-End Web/Mobile developer, my work ethic is fueled by a passion for creating user-centered products that can make a tangible difference. I take pride in building products that have a meaningful impact and strive to achieve that goal with every project.
+As a Software Web/Mobile developer, my work ethic is fueled by a passion for creating user-centered products that can make a tangible difference. I take pride in building products that have a meaningful impact and strive to achieve that goal with every project.
 
-Tech Stack : Javascript | React | React Native | Typescript | Vue .
+Tech Stack : Javascript | React | React Native | Nextjs | Node | Typescript | Vue .
 
 - 📫 How to reach me: 
   * 🕊 [Twitter](https://twitter.com/cmcWebCode "My Twitter")
